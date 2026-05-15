@@ -32,8 +32,8 @@ I have hands-on experience building APIs, automation solutions, and backend syst
 </div>
 
 ### 🚀 Featured Projects
-- 🔹 [BeautyFlow API](https://github.com/kahsale94/beautyflow-api) — Backend system for automating customer service in barbershops and beauty salons, built with FastAPI, SQLAlchemy, and PostgreSQL. Integrates with N8N and Evolution API to enable automated WhatsApp interactions and workflow-driven customer service.
-- 🔹 [TopNew CRUD](https://github.com/kahsale94/topnew-crud) — Fullstack commercial management system for handling customers, products, inventory, and orders. Built with FastAPI, PostgreSQL, and vanilla JavaScript, featuring JWT authentication and N8N integration for automated order notifications via WhatsApp.
+- 🔹 [BeautyFlow](https://github.com/kahsale94/beautyflow-api) — Backend system for automating customer service in barbershops and beauty salons, built with FastAPI, SQLAlchemy, and PostgreSQL. Integrates with N8N and Evolution API to enable automated WhatsApp interactions and workflow-driven customer service.
+- 🔹 [Logira](https://github.com/kahsale94/logira-api) — Fullstack commercial management system for handling customers, products, inventory, and orders. Built with FastAPI, PostgreSQL, and vanilla JavaScript, featuring JWT authentication and N8N integration for automated order notifications via WhatsApp.
 
 ## 📊 Statistics
 
